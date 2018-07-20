@@ -1,0 +1,18 @@
+
+		*Problema de practica para el siguiente lab*
+
+	- Tenemos una persona HURD que tiene que limpiar distintas piezas en un departamento, las cuales para simplificar la solución vamos a colocarlas dentro de una matriz, ahora bien debemos tener en cuenta que vamos a tener paredes y piezas que ya están limpias.
+	- La persona debe deja  de realizar alguna acción al momento que ya limpio toda las piezas de su edificio, es decir, cuando no queden piezas que limpiar. 
+	
+
+1. Pedir cantidad de filas y columnas que se desea crear la matriz.
+
+2. Realizar las transiciones:
+	1. Mover hacia la derecha.
+	2. Mover hacia la izquierda.
+	3. Mover hacia arriba.
+	4. Mover hacia abajo.
+
+3. Realizamos la verificación de la accion a realizar.
+	1. Limpiar.
+	2. No limpiar.
